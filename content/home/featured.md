@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 2
 
-title: Selected Working Papers
+title: Working Papers
 subtitle: ""
 
 content:
