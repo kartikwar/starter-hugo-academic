@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 2
 
-title: Conference Presentations
+title: WP
 subtitle: ""
 
 content:
