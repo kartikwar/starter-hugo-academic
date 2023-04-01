@@ -67,8 +67,11 @@ email: ""
 highlight_name: true
 ---
 
-Deepak Sirwani is a PhD Candidate in behavioral marketing in the SC Johnson Graduate School of Management at Cornell University. He is a Bachelor of Technology (Hons.) in Electrical Engineering from Indian Institute of Technology (IIT), Kharagpur, India. He has 5 years of experience in the industry-first as an Intellectual Property Law Consultant to law firms in the U.S. and then as a Portfolio Manager and Compliance Head for an e-commerce startup, OYO, that went on to become one of the world's largest hospitality chains.
+Deepak Sirwani is a PhD Candidate in behavioral marketing in the SC Johnson Graduate School of Management at Cornell University. He studies questions pertaining to metacognition in general, with a particular focus on numerical cognition, time perception, online retail, and technology.
 
-He studies questions pertaining to consumer finances in general, with a particular focus on financially constrained consumers, financial decision making, and the psychology of happiness and wellbeing.
+
+He is a Bachelors in Electrical Engineering from Indian Institute of Technology (IIT). He has 5 years of experience in the industry-first as an Intellectual Property Law Consultant to law firms in the U.S. and then as a Portfolio Manager and Compliance Head for an e-commerce startup, OYO, that went on to become one of the world's largest hospitality chains.
+
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
