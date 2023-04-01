@@ -17,18 +17,18 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-- Metacognition
-- Time Perception
-- Digital Marketing
-- Numerical Cognition
+#interests:
+#- Metacognition
+#- Time Perception
+#- Digital Marketing
+#- Numerical Cognition
 
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Behavioral Marketing
-    institution: Cornell University
+    institution: Cornell University, SC Johnson College of Business
     year: 2024 (expected)
   - course: BS (BTech) in Electrical Engineering
     institution: Indian Institute of Technology (IIT)
