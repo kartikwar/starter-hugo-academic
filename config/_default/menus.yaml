@@ -14,10 +14,10 @@ main:
     url: '#papers'
     weight: 3
   - name: Conference
-    url: '#contact'
+    url: '#conferences'
     weight: 4
   - name: Contact
-    url: '#conferences'
+    url: '#contact'
     weight: 5
   - name: CV
     url: uploads/demo_resume.pdf
