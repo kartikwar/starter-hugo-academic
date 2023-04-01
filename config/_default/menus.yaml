@@ -10,10 +10,10 @@ main:
   - name: Papers
     url: '#featured'
     weight: 2
-  - name: Conference
+  - name: Ongoing
     url: '#papers'
     weight: 3
-  - name: Ongoing
+  - name: Conference
     url: '#conferences'
     weight: 4
   - name: Contact
