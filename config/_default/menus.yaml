@@ -7,13 +7,13 @@ main:
   - name: Home
     url: '#about'
     weight: 1
-  - name: Publications
+  - name: lauren
     url: '#featured'
     weight: 2
-  - name: Working Papers
+  - name: rahul
     url: '#papers'
     weight: 3
-  - name: Conferences
+  - name: fuck
     url: '#conferences'
     weight: 4
   - name: Contact
