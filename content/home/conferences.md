@@ -7,9 +7,9 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 2
+weight: 3
 
-title: Selected Research in Progress
+title: Research in Progress
 subtitle: ""
 
 content:
