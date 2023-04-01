@@ -11,10 +11,10 @@ main:
     url: '#featured'
     weight: 2
   - name: Ongoing
-    url: '#papers'
+    url: '#conferences'
     weight: 3
   - name: Conference
-    url: '#conferences'
+    url: '#papers'
     weight: 4
   - name: Contact
     url: '#contact'
