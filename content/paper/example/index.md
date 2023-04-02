@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Wowchemy Conference*
@@ -82,4 +82,4 @@ slides: ""
 {{% callout note %}}
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Rodrigo S. Dias, Eesha Sharma, and Gavan J. Fitzsimons. “Individual Differences in Quality-Quantity Tradeoffs in Consumption: Conceptualization, Scale Development, and Validation”.
