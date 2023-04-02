@@ -8,10 +8,10 @@ authors:
 - admin
 - Suzanne Shu
 
-# Author notes (optional)
+Author notes (optional)
 #author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2023-03-04T00:00:00Z"
 doi: ""
@@ -66,14 +66,14 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 #projects:
-#- example
+- example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-#slides: example
+slides: example
 ---
 
 {{% callout note %}}
