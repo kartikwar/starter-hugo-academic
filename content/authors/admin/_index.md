@@ -6,7 +6,7 @@ title: Deepak Sirwani
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate, Cornell University
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,26 +14,25 @@ organizations:
   url: https://www.cornell.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Cornell University
 
 # Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+#interests:
+#- Metacognition
+#- Time Perception
+#- Digital Marketing
+#- Numerical Cognition
+
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Behavioral Marketing
+    institution: Cornell University, SC Johnson College of Business
+    year: 2024 (expected)
+  - course: BS (BTech) in Electrical Engineering
+    institution: Indian Institute of Technology (IIT)
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,16 +44,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/deepaksirw
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.johnson.cornell.edu/programs/phd-program/current-students/ds2344/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/deepak-sirwani-6198b227/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +66,9 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Deepak Sirwani is a Ph.D. Candidate in Behavioral Marketing at the SC Johnson Graduate School of Management, Cornell University. His research focuses on theories of metacognition and numerical cognition, examining their applications in areas such as online retail, time perception, and emerging technologies like non-fungible tokens (NFTs).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before pursuing his academic career, Deepak spent five years in industry. He was a founding member of OYO Rooms, an e-commerce startup that has now become a leading global hospitality chain. Additionally, he has also worked as an Intellectual Property Law Consultant for prominent US law firms.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
