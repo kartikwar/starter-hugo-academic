@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://duke.app.box.com/s/7kunlykj3i44511fe3s09egiwpj0scec'
 url_code: ''
 url_dataset: ''
 url_poster: ''
