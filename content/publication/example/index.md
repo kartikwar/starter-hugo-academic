@@ -1,15 +1,17 @@
 ---
-title: "Hello"
+title: "Fooled by Stars: Perceptual Biases in Judgments of Numeric Ratings."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Suzanne Shu
+- Srishti Kumar
+- Manoj Thomas
 
 # Author notes (optional)
 author_notes:
+- "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
 
