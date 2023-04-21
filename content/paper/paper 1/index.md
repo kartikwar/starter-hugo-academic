@@ -1,5 +1,5 @@
 ---
-title: "Paper 1"
+title: "The Role of Unique Identifiers in Speculative Valuations of NFTs: Evidence from the Lab and the Field”"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
