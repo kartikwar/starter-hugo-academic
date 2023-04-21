@@ -1,5 +1,5 @@
 ---
-title: "“Concreteness and Ownership in Financial Decision Making”"
+title: "Concreteness and Ownership in Financial Decision Making"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
