@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 4
 
-title: Working Papers
+title: Conference Presentations
 subtitle: ""
 
 content:
