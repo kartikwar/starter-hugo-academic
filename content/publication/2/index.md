@@ -1,17 +1,15 @@
 ---
-title: "Fooled by Stars: Perceptual Biases in Judgments of Numeric Ratings"
+title: “Perceptual Time Dilation ':'  How Computational Ease Influences Time Perception in Lab and Field Settings.”
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Srishti Kumar
-- Manoj Thomas
+- Suzanne Shu
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
 
@@ -46,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://duke.app.box.com/s/7kunlykj3i44511fe3s09egiwpj0scec'
 url_code: ''
 url_dataset: ''
 url_poster: ''
