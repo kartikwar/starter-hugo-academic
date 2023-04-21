@@ -1,15 +1,17 @@
 ---
-title: "The Role of Unique Identifiers in Speculative Valuations of NFTs: Evidence from the Lab and the Field”"
+title: "“Concreteness and Ownership in Financial Decision Making”"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
+- Deepak Sirwani
+- Manoj Thomas
 - Suzanne Shu
 
 # Author notes (optional)
 author_notes:
+- "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
 
