@@ -1,5 +1,5 @@
 ---
-title: "The Year/Length Effect in Time Perception: Perceptual Biases in Judgments of Numeric Ratings"
+title: "The Year/Length Effect in Time Perception: Evidence from the lab and the field"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
