@@ -9,9 +9,6 @@ authors:
 - Suzanne Shu
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 
 date: "2023-03-01T00:00:00Z"
 doi: ""
