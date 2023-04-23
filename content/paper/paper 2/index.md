@@ -28,7 +28,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Wowchemy Conference*
-publication_short: Novel Insights about Numerical Cognition in Consumer Behavior, *Society for Consumer Psychology Annual Meeting*, San Juan, Puerto Rico.
+publication_short: Society for Consumer Psychology Annual Meeting, Competitive Paper, San Juan, Puerto Rico
 abstract: ""
 
 # Summary. An optional shortened abstract.
