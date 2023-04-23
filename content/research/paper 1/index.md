@@ -7,7 +7,6 @@ title: "Concreteness and Ownership in Financial Decision Making"
 authors:
 - Deepak Sirwani
 - Manoj Thomas
-- Suzanne Shu
 
 # Author notes (optional)
 
