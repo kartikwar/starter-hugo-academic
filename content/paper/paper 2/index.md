@@ -6,8 +6,7 @@ title: "The Year/Length Effect in Time Perception: Evidence from the lab and the
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Srishti Kumar
-- Manoj Thomas
+- Suzanne Shu
 
 # Author notes (optional)
 author_notes:
