@@ -28,7 +28,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
+publication: In *Journal of Marketing Research*
 publication_short:  Under Review at *Journal of Marketing Research*
 
 abstract: ""
