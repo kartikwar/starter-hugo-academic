@@ -1,5 +1,5 @@
 ---
-title: "“Xbox from Xbox, Apple from Apple: How the Feeling of Fit Affects Store Choice.”
+title: "Xbox from Xbox, Apple from Apple: How the Feeling of Fit Affects Store Choice”
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
