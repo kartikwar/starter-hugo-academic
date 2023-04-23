@@ -32,7 +32,7 @@ publication_short: Novel Insights about Numerical Cognition in Consumer Behavior
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ""
 
 tags: []
 
