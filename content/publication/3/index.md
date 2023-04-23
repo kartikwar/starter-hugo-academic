@@ -1,17 +1,15 @@
 ---
-title: "Fooled by Stars: Perceptual Biases in Judgments of Numeric Ratings"
+title: "“Xbox from Xbox, Apple from Apple: How the Feeling of Fit Affects Store Choice.”
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Srishti Kumar
 - Manoj Thomas
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
 
@@ -29,7 +27,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Wowchemy Conference*
-publication_short:  Under Review at *Journal of Marketing Research*
+publication_short:  Under Review at *Journal of Consumer Psychology*
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -46,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://duke.app.box.com/s/7kunlykj3i44511fe3s09egiwpj0scec'
 url_code: ''
 url_dataset: ''
 url_poster: ''
