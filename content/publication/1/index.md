@@ -42,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://cornell.box.com/s/mcq4k0o88iksv832535g165jigxb2ucf'
+url_pdf: 'https://www.dropbox.com/s/ggypcgjw8l59qpf/abstract_ratings.pdf?dl=0'
 url_code: ''
 url_dataset: ''
 url_poster: ''
