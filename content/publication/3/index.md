@@ -1,5 +1,5 @@
 ---
-title: "Xbox from Xbox, Gucci from Gucci: Exploring the Influence of Feelings of Store-Product Fit on Consumer Store Preferences"
+title: "Xbox from Xbox, Gucci from Gucci: Exploring the Influence of Feeling of Store-Product Fit on Consumer Store Preferences"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://cornell.box.com/s/qwcs60hnrukt4srje5teysnzm8fofqx0'
+url_pdf: 'https://cornell.box.com/s/8fdcrxm1vyk13dyu6wrsyotkz6g7hvuq'
 url_code: ''
 url_dataset: ''
 url_poster: ''
