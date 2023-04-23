@@ -1,5 +1,5 @@
 ---
-title: "Heartfelt Choices: Is Love Timeless? (data collection)"
+title: "Heartfelt Choices: Is Love Timeless?"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
