@@ -1,5 +1,5 @@
 ---
-title: "Xbox from Xbox, Apple from Apple: Perceptual Biases in Judgments of Numeric Ratings"
+title: "Xbox from Xbox, Apple from Apple: How the Feeling of fit Affects Store Choice"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
