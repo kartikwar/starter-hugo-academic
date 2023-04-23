@@ -1,5 +1,5 @@
 ---
-title: "Fooled by Stars: Perceptual Biases in Judgments of Numeric Ratings"
+title: "Xbox from Xbox, Apple from Apple: Perceptual Biases in Judgments of Numeric Ratings"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
