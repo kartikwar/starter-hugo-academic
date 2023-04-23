@@ -42,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://duke.app.box.com/s/7kunlykj3i44511fe3s09egiwpj0scec'
+url_pdf: 'https://cornell.box.com/s/mcq4k0o88iksv832535g165jigxb2ucf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

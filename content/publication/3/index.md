@@ -1,5 +1,5 @@
 ---
-title: "Xbox from Xbox, Apple from Apple: How the Feeling of fit Affects Store Choice"
+title: "Xbox from Xbox, Gucci from Gucci: Exploring the Influence of Feelings of Store-Product Fit on Consumer Store Preferences"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -10,7 +10,7 @@ authors:
 
 # Author notes (optional)
 
-date: "2022-07-01T00:00:00Z"
+date: "2023-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,8 +23,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: Under Review at *Journal of Consumer Psychology*
-publication_short:  Under Review at *Journal of Consumer Psychology*
+publication: Under Review at *Journal of Marketing*
+publication_short:  Under Review at *Journal of Marketing*
 
 abstract: ""
 
@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://duke.app.box.com/s/7kunlykj3i44511fe3s09egiwpj0scec'
+url_pdf: 'https://cornell.box.com/s/qwcs60hnrukt4srje5teysnzm8fofqx0'
 url_code: ''
 url_dataset: ''
 url_poster: ''
