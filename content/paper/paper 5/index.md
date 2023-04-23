@@ -1,5 +1,5 @@
 ---
-title: "The feeling of Coherence: When and Why Shoppers Switch to Brand's Official Stores, Society for Consumer Psychology Annual Meeting 2022, Virtual"
+title: "The Feeling of Coherence: When and Why Shoppers Switch to Brand's Official Stores, Society for Consumer Psychology Annual Meeting 2022, Virtual"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

@@ -1,5 +1,5 @@
 ---
-title: "Coach from Coach, Apple from Apple: How the feeling of Coherence Affects Store Choice, Marketing Strategy Consortium 2022, Mays Business School, Texas A&M University, College Station, TX"
+title: "Coach from Coach, Apple from Apple: How the Feeling of Coherence Affects Store Choice, Marketing Strategy Consortium 2022, Mays Business School, Texas A&M University, College Station, TX"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
