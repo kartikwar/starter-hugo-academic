@@ -6,12 +6,10 @@ title: "Fooled by Stars: Perceptual Biases in Judgments of Numeric Ratings"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Srishti Kumar
 - Manoj Thomas
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
 
