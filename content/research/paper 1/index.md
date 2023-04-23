@@ -1,13 +1,13 @@
 ---
-title: "Concreteness and Ownership in Financial Decision Making"
+title: "The Role of Unique Identifiers in Speculative Valuations of NFTs: Evidence from the Lab and the Field (manuscript in preparation)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Unal Murat
 - Manoj Thomas
-- Suzanne Shu
 
 # Author notes (optional)
 

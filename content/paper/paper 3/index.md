@@ -1,5 +1,5 @@
 ---
-title: "Xbox from Xbox, Apple from Apple: How Store-Product Match Influences Store Choice"
+title: "Xbox from Xbox, Apple from Apple: How Store-Product Match Influences Store Choice, Association for Consumer Research (2022), Working Paper, Denver, CO"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
+publication: In *ACR*
 publication_short: Society for Consumer Psychology Annual Meeting, Competitive Paper, San Juan, Puerto Rico
 abstract: ""
 

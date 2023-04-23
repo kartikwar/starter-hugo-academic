@@ -1,5 +1,5 @@
 ---
-title: "The feeling of Coherence: When and Why Shoppers Switch to Brand's Official Stores"
+title: "The feeling of Coherence: When and Why Shoppers Switch to Brand's Official Stores, Society for Consumer Psychology Annual Meeting 2022, Virtual"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
+publication: In *SCP*
 publication_short: Society for Consumer Psychology Annual Meeting, Competitive Paper, San Juan, Puerto Rico
 abstract: ""
 

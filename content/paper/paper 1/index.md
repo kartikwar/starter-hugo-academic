@@ -1,5 +1,5 @@
 ---
-title: "Fooled by Stars: Perceptual Biases in Judgments of Numeric Ratings"
+title: "Fooled by Stars: Perceptual Biases in Judgments of Numeric Ratings, Society for Consumer Psychology Annual Meeting 2023, San Juan, Puerto Rico."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -24,7 +24,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
+publication: In *SCP*
 publication_short: Novel Insights about Numerical Cognition in Consumer Behavior, *Society for Consumer Psychology Annual Meeting*, San Juan, Puerto Rico.
 abstract: ""
 

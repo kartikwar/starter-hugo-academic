@@ -1,5 +1,5 @@
 ---
-title: "Coach from Coach, Apple from Apple: How the feeling of Coherence Affects Store Choice"
+title: "Coach from Coach, Apple from Apple: How the feeling of Coherence Affects Store Choice, Marketing Strategy Consortium 2022, Mays Business School, Texas A&M University,College Station, TX"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
+publication: In *Marketing Strategy Consortium*
 publication_short: Society for Consumer Psychology Annual Meeting, Competitive Paper, San Juan, Puerto Rico
 abstract: ""
 
