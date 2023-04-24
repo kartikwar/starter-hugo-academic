@@ -6,7 +6,7 @@ title: "The Role of Unique Identifiers in Speculative Valuations of NFTs: Eviden
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- with Unal Murat
+- Unal Murat
 - and Manoj Thomas. (manuscript in preparation)
 
 # Author notes (optional)
