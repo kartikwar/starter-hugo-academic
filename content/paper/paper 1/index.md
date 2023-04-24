@@ -1,5 +1,5 @@
 ---
-title: "Fooled by Stars: Perceptual Biases in Judgments of Numeric Ratings, Society for Consumer Psychology Annual Meeting 2023, San Juan, Puerto Rico."
+title: "*Fooled by Stars: Perceptual Biases in Judgments of Numeric Ratings, Society for Consumer Psychology Annual Meeting 2023, San Juan, Puerto Rico.*"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
