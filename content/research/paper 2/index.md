@@ -6,8 +6,8 @@ title: "Heartfelt Choices: Is Love Timeless?"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Emily N. Garbinsky
-- Stijn M.J. van Osselaer
+- with Emily N. Garbinsky
+- and Stijn M.J. van Osselaer. (data collection in progress)
 
 # Author notes (optional)
 
