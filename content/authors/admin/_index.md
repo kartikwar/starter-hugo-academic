@@ -66,7 +66,7 @@ email: ""
 highlight_name: true
 ---
 
-Deepak Sirwani is a Ph.D. Candidate in Marketing at Cornell University. His research centers on consumer judgments and decisions within real-world marketing contexts. Deepak's dissertation delves into judgments involving numbers, with applications in areas such as ratings, time perception, and emerging technologies like non-fungible tokens (NFTs). Additionally, his research encompasses consumers' store choices and examines the influence of being in love on decision-making. Broadly, Deepak's passion lies in uncovering novel patterns in human decision-making, contributing to understanding the uniqueness of human intelligence compared to artificial intelligence.
+Deepak Sirwani is a Ph.D. Candidate in Marketing at Cornell University. His research centers on consumer judgments and decisions within real-world marketing contexts. Deepak’s dissertation delves into judgments involving numbers, with applications in areas such as ratings, time perception, and emerging technologies like non-fungible tokens (NFTs). Additionally, his research encompasses consumers' store choices and examines the influence of being in love on decision-making. Broadly, Deepak’s passion lies in uncovering novel patterns in human decision-making, thereby exploring the uniqueness of human intelligence compared to artificial intelligence.
 
 Before pursuing his academic career, Deepak spent five years in the industry, serving as a founding member of OYO Rooms, an e-commerce startup that has since grown into a leading global hospitality chain, and working as an Intellectual Property Law Consultant for prestigious US law firms.
 
