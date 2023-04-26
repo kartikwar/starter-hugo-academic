@@ -66,9 +66,9 @@ email: ""
 highlight_name: true
 ---
 
-Deepak Sirwani is a Ph.D. Candidate in Behavioral Marketing at the SC Johnson Graduate School of Management, Cornell University. His research focuses on theories of metacognition and numerical cognition, examining their applications in areas such as online retail, time perception, and emerging technologies like non-fungible tokens (NFTs).
+Deepak Sirwani is a Ph.D. Candidate in Behavioral Marketing at the SC Johnson Graduate School of Management, Cornell University. His research centers on consumer judgments and decision-making within real-world marketing contexts. Deepak's dissertation delves into decisions and judgments involving numerical information, with applications in areas such as online ratings, time perception, and emerging technologies like non-fungible tokens (NFTs). Additionally, his research encompasses consumer decision-making in online store choices and examines the impact of romantic love on people's decisions. Broadly, Deepak's passion lies in uncovering novel patterns in human decision-making, contributing to understanding the uniqueness of human intelligence compared to artificial intelligence.
 
-Before pursuing his academic career, Deepak spent five years in industry. He was a founding member of OYO Rooms, an e-commerce startup that has now become a leading global hospitality chain. Additionally, he has also worked as an Intellectual Property Law Consultant for prominent US law firms.
+Before pursuing his academic career, Deepak spent five years in the industry, serving as a founding member of OYO Rooms, an e-commerce startup that has since grown into a leading global hospitality chain, and working as an Intellectual Property Law Consultant for prestigious US law firms.
 
 
 {{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
