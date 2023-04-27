@@ -1,5 +1,5 @@
 ---
-title: "Xbox from Xbox, Gucci from Gucci: Exploring the Influence of Feeling of Store-Product Fit on Consumer Store Preferences"
+title: "Xbox from Xbox, Gucci from Gucci: The Influence of Store-Product Fit on Consumer Store Preferences"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -23,8 +23,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: Under Review at *Journal of Marketing*
-publication_short:  Under Review at *Journal of Marketing*
+publication: Under Review at *Journal of Consumer Psychology*
+publication_short:  Under Review at *Journal of Consumer Psychology*
 
 abstract: ""
 
