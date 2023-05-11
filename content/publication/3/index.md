@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.dropbox.com/s/ya4teve77w0p43c/abstract_store.pdf?dl=0'
+url_pdf: 'https://www.dropbox.com/s/nik63frsi7sut9z/abstract_store.pdf?dl=0'
 url_code: ''
 url_dataset: ''
 url_poster: ''
