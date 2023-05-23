@@ -1,5 +1,5 @@
 ---
-title: "The Role of Unique Identifiers in Speculative Valuations of NFTs: Evidence from the Lab and the Field"
+title: "The Economics of Digital Collectibles: Unraveling Key Valuation Factors in the Non-Fungible Token (NFT) Ecosystem"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
