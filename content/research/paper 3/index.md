@@ -1,16 +1,17 @@
 ---
-title: "Does Size Matter? An Individual Difference Measure."
+title: "Heartfelt Choices: Is Love Timeless?"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- with Manoj Thomas. (data collection in progress)
+- Emily N. Garbinsky
+- and Stijn M.J. van Osselaer. (data collection in progress)
 
 # Author notes (optional)
 
-date: "2023-05-01T00:00:00Z"
+date: "2023-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
