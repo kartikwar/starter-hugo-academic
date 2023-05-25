@@ -1,5 +1,5 @@
 ---
-title: "Less is More, or Bigger is Better? Individual Differences in the Aesthetic Preferences of Size."
+title: "Less is More, or Bigger is Better? Individual Differences in the Aesthetic Preference for Size."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
