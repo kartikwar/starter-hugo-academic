@@ -66,7 +66,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a Ph.D. Candidate in Marketing at Cornell University. My research is centered on consumer judgments and decisions in real-world settings, especially within the digital environment. My dissertation delves into the impact of numerical judgments on areas like ratings, time perception, and emerging technologies such as non-fungible tokens (NFTs). Generally, I'm passionate about discovering novel patterns in human decision-making, giving insight into the unique aspects of human intelligence compared to artificial intelligence.
+I am a Ph.D. Candidate in Marketing at Cornell University. My research is centered on consumer judgments and decisions in real-world settings, especially within the digital environment. My dissertation delves into the impact of numerical judgments on areas like ratings, time perception, and emerging technologies such as non-fungible tokens (NFTs). Generally, I'm passionate about discovering novel patterns in human decision-making, differentiating human intelligence from artificial intelligence.
 
 Before stepping into academia, I had a five-year stint in the business world. I was a founding member of OYO Rooms, an e-commerce startup that has since expanded into a top global hospitality chain. I also worked as an Intellectual Property Law Consultant for US law firms.
 
