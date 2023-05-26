@@ -73,4 +73,4 @@ Before stepping into academia, I had a five-year stint in the business world. I 
 I will be on the academic job market in 2023-2024.
 
 
-{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
