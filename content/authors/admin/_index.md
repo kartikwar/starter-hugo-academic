@@ -17,11 +17,11 @@ organizations:
 bio: Cornell University
 
 # Interests to show in About widget
-#interests:
-#- Metacognition
-#- Time Perception
-#- Digital Marketing
-#- Numerical Cognition
+Interests:
+- Numerical Cognition
+- Time Perception
+- Digital Marketing
+- Non-Fungible Tokens (NFTs)
 
 
 # Education to show in About widget
@@ -66,9 +66,11 @@ email: ""
 highlight_name: true
 ---
 
-Deepak Sirwani is a Ph.D. Candidate in Marketing at Cornell University. His research centers on consumer judgments and decisions within real-world marketing contexts. Deepak’s dissertation delves into judgments involving numbers, with applications in areas such as ratings, time perception, and emerging technologies like non-fungible tokens (NFTs). Additionally, his research encompasses consumers' store choices and examines the influence of being in love on decision-making. Broadly, Deepak’s passion lies in uncovering novel patterns in human decision-making, thereby exploring the uniqueness of human intelligence compared to artificial intelligence.
+I am a Ph.D. Candidate in Marketing at Cornell University. My research is centered on consumer judgments and decisions in real-world settings, especially within the digital environment. My dissertation delves into the impact of numerical judgments on areas like ratings, time perception, and emerging technologies such as non-fungible tokens (NFTs). Generally, I'm passionate about discovering novel patterns in human decision-making, giving insight into the unique aspects of human intelligence compared to artificial intelligence.
 
-Before pursuing his academic career, Deepak spent five years in the industry, serving as a founding member of OYO Rooms, an e-commerce startup that has since grown into a leading global hospitality chain, and working as an Intellectual Property Law Consultant for US law firms.
+Before stepping into academia, I had a five-year stint in the business world. I was a founding member of OYO Rooms, an e-commerce startup that has since expanded into a top global hospitality chain. I also worked as an Intellectual Property Law Consultant for US law firms.
+
+I will be on the academic job market in 2023-2024.
 
 
 {{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
