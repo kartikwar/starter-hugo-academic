@@ -21,7 +21,7 @@ Interests:
 - Numerical Cognition
 - Time Perception
 - Digital Marketing
-- Non-Fungible Tokens (NFTs)
+- Emerging Technologies (NFTs)
 
 
 # Education to show in About widget
