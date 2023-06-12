@@ -23,8 +23,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: Revise & Resubmit at *Journal of Marketing Research*
-publication_short:  Revise & Resubmit at *Journal of Marketing Research*
+publication: *Revision* Invited at *Journal of Marketing Research*
+publication_short:  *Revision* Invited at *Journal of Marketing Research*
 
 abstract: ""
 
