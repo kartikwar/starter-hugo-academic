@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.dropbox.com/s/y8ql7oztxwrvwyd/abstract_time.pdf?dl=0'
+url_pdf: 'https://cornell.app.box.com/file/1241141590538?s=zm9otewqwukc6o3dm6xsfb35ny7r1ddl'
 url_code: ''
 url_dataset: ''
 url_poster: ''
