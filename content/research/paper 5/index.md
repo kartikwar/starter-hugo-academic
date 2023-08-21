@@ -7,7 +7,7 @@ title: "Directionality in Numerical Evaluation"
 authors:
 
 - Archer Yue Pan 
-- admin (data collection in progress)
+- admin
 
 # Author notes (optional)
 
