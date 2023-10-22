@@ -70,7 +70,7 @@ I am a Ph.D. Candidate in Marketing at Cornell University. My research is center
 
 Before stepping into academia, I had a five-year stint in the business world. I was a founding member of OYO Rooms, an e-commerce startup that has since expanded into a top global hospitality chain. I also worked as an Intellectual Property Law Consultant for US law firms.
 
-I will be on the academic job market in 2023-2024.
+I will join the Marketing & Behavioural Science Division as an Assistant Professor at The University of British Columbia in 2024.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
