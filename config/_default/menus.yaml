@@ -10,18 +10,12 @@ main:
   - name: Papers
     url: '#conferences'
     weight: 2
-  - name: Ongoing
-    url: '#papers'
-    weight: 3
-  - name: Conference
-    url: '#featured'
-    weight: 4
   - name: Contact
     url: '#contact'
-    weight: 5
+    weight: 3
   - name: CV
     url: uploads/demo_resume.pdf
-    weight: 6
+    weight: 4
 
 
 # Link to a PDF of your resume/CV from the menu.

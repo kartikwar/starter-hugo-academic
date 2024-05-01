@@ -1,5 +1,5 @@
 ---
-title: "Fooled by Stars: Misestimations in Judgments of Numeric Ratings"
+title: "Rating Judgments"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -24,8 +24,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: Under 2nd round review at *Journal of Marketing Research*
-publication_short: Under 2nd round review at *Journal of Marketing Research*
+publication: Revision invited for 3nd round review at *Journal of Marketing Research*
+publication_short: Revision invited for 3nd round review at *Journal of Marketing Researchh*
 
 abstract: ""
 

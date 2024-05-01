@@ -20,8 +20,8 @@ bio: Cornell University
 Interests:
 - Numerical Cognition
 - Time Perception
-- Digital Marketing
 - Emerging Technologies (NFT, AI)
+- Digital Marketing
 
 
 # Education to show in About widget

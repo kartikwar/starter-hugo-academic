@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: Preparing for resubmission at *Journal of Marketing*
+publication: Preparing for submission at *Journal of Marketing*
 publication_short: Preparing for submission at *Journal of Marketing*
 
 abstract: ""
