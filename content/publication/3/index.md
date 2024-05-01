@@ -1,5 +1,5 @@
 ---
-title: "Xbox from Xbox, Gucci from Gucci: The Influence of Store-Product Fit on Consumer Store Preferences"
+title: "Store Choice Preference"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -24,7 +24,7 @@ publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: Preparing for resubmission at *Journal of Marketing*
-publication_short: Preparing for resubmission at *Journal of Marketing*
+publication_short: Preparing for submission at *Journal of Marketing*
 
 abstract: ""
 

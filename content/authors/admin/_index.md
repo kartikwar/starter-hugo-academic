@@ -66,11 +66,9 @@ email: ""
 highlight_name: true
 ---
 
-I am a Ph.D. Candidate in Marketing at Cornell University. My research is centered on consumer judgments and decisions in real-world settings, especially within the digital environment. My dissertation delves into the impact of numerical judgments in areas like ratings, time perception, and emerging technologies such as non-fungible tokens (NFTs).
+I am an incoming Assistant Professor in the Marketing & Behavioural Science Division at The University of British Columbia. My research focuses on consumer judgments and decisions in real-world settings, especially within the digital environment. My doctoral dissertation explored numerical cognition in contexts such as ratings and time perception.
 
-Before stepping into academia, I was a founding team member of OYO Rooms, an e-commerce startup that has since expanded into a top global hospitality chain. I also worked as an Intellectual Property Law Consultant for US law firms.
-
-I will join the Marketing & Behavioural Science Division as an Assistant Professor at The University of British Columbia in 2024.
+Before transitioning to academia, I was a founding team member of OYO Rooms, an e-commerce startup that has evolved into a leading global hospitality chain. I also have experience as an Intellectual Property Law Consultant for US law firms.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
