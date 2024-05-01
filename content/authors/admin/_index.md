@@ -29,7 +29,10 @@ education:
   courses:
   - course: PhD in Behavioral Marketing
     institution: Cornell University, SC Johnson College of Business
-    year: 2024 (expected)
+    year: 2024
+  - course: Master of Science in Management
+    institution: Cornell University, SC Johnson College of Business
+    year: 2023
   - course: BS (BTech) in Electrical Engineering
     institution: Indian Institute of Technology (IIT)
     year: 2012
