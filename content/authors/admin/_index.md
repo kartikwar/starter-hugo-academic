@@ -6,15 +6,15 @@ title: Deepak Sirwani
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Cornell University
-  url: https://www.cornell.edu/
+- name: The University of British Columbia
+  url: https://www.ubc.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Cornell University
+bio: The University of British Columbia
 
 # Interests to show in About widget
 Interests:
