@@ -69,7 +69,7 @@ email: ""
 highlight_name: true
 ---
 
-I am an incoming Assistant Professor in the Marketing & Behavioural Science Division at The University of British Columbia. My research focuses on consumer judgments and decisions in real-world settings, especially within the digital environment. My doctoral dissertation explored numerical cognition in contexts such as ratings and time perception.
+I am an Assistant Professor in the Marketing & Behavioural Science Division at The University of British Columbia. My research focuses on consumer judgments and decisions in real-world settings. My doctoral dissertation explored numerical cognition in contexts such as consumer ratings and time perception.
 
 Before transitioning to academia, I was a founding team member of OYO Rooms, an e-commerce startup that has evolved into a leading global hospitality chain. I also have experience as an Intellectual Property Law Consultant for US law firms.
 
