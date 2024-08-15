@@ -20,8 +20,8 @@ bio: The University of British Columbia
 Interests:
 - Numerical Cognition
 - Time Perception
-- Emerging Technologies (NFT, AI)
-- Digital Marketing
+- Morality
+- Decision Making
 
 
 # Education to show in About widget
