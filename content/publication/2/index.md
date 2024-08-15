@@ -10,7 +10,7 @@ authors:
 
 # Author notes (optional)
 
-date: "2023-06-01T00:00:00Z"
+date: "2024-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,8 +23,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: Revision invited for 2nd round review at *Journal of Marketing Research*
-publication_short: Revision invited for 2nd round review at *Journal of Marketing Research*
+publication: Revision invited for 3rd round review at *Journal of Marketing Research*
+publication_short: Revision invited for 3rd round review at *Journal of Marketing Research*
 
 abstract: ""
 
