@@ -20,7 +20,7 @@ bio: The University of British Columbia
 Interests:
 - Numerical Cognition
 - Time Perception
-- Morality
+- Moral Psychology
 - Decision Making
 
 
