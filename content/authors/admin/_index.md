@@ -69,9 +69,9 @@ email: ""
 highlight_name: true
 ---
 
-I am an Assistant Professor in the Marketing & Behavioural Science Division at The University of British Columbia. My research examines how consumers form judgments and make decisions in real-world contexts, with a particular focus on numerical cognition—including how people interpret ratings and perceive time. My work has been published in the Journal of Marketing Research.
+I an Assistant Professor in the Marketing & Behavioural Science Division at the University of British Columbia. My research draws on psychophysics to examine how people perceive and interpret numbers and time, and how these perceptions shape consumer judgments and decisions. My work has been published in the Journal of Marketing Research and featured in media outlets including Bloomberg, CBC, and The Conversation.
 
-Before pursuing an academic career, I was a founding team member of OYO Rooms, an e-commerce startup that has grown into a leading global hospitality chain. I also served as an Intellectual Property Law Consultant for U.S. law firms, advising on various aspects of technology and consumer-focused innovations.
+I hold an undergraduate degree in electrical engineering from IIT. Before entering academia, I was a founding team member of OYO Rooms, a startup that grew into a global hospitality company. I also worked as an intellectual property law consultant for U.S. law firms, advising on technology and consumer-focused innovations.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
